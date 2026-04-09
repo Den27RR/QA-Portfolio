@@ -71,11 +71,16 @@ login-form/
 
 ## 🔐 Test Data
 
-| Username        | Password     | Keterangan         |
-| --------------- | ------------ | ------------------ |
-| standard_user   | secret_sauce | Valid user         |
-| locked_out_user | secret_sauce | User terkunci      |
-| invalid_user    | wrong_pass   | Invalid credential |
+Berikut adalah data pengguna yang digunakan dalam pengujian fitur login pada SauceDemo:
+
+| Username                | Password     | Keterangan                         |
+| ----------------------- | ------------ | ---------------------------------- |
+| standard_user           | secret_sauce | User normal (valid login)          |
+| locked_out_user         | secret_sauce | User terkunci (tidak dapat login)  |
+| problem_user            | secret_sauce | User dengan potensi issue aplikasi |
+| performance_glitch_user | secret_sauce | User dengan performa lambat        |
+| error_user              | secret_sauce | User yang memicu error tertentu    |
+| visual_user             | secret_sauce | User dengan kemungkinan issue UI   |
 
 ---
 
