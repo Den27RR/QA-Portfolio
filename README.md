@@ -81,8 +81,8 @@ manual-testing/
 ## 🌐 Lingkungan Pengujian (Test Environment)
 
 * Website: https://www.saucedemo.com/
-* Browser: Google Chrome
-* OS: Windows 10
+* Browser: Google Chrome versi 146.0.7680.178
+* OS: Windows 11 Pro
 
 ---
 
@@ -117,8 +117,8 @@ manual-testing/
 
 Untuk diskusi atau peluang kerja sama:
 
-* 📧 Email: (isi email kamu)
-* 🔗 LinkedIn: (isi linkedin kamu)
+* 📧 Email: mnazaruddin.nur@gmail.com
+* 🔗 LinkedIn: linkedin.com/nazarrn/
 
 ---
 
