@@ -1,4 +1,4 @@
-# 🧪 QA Testing Portfolio
+# 🧪 QA Manual Testing Portfolio
 
 ## 👨‍💻 About Me
 
