@@ -4,8 +4,6 @@
 
 Folder ini berisi kumpulan **test cases** yang digunakan untuk menguji berbagai fitur aplikasi berdasarkan platform yang berbeda, yaitu **Web** dan **Mobile**.
 
-Seluruh test case disusun menggunakan format **Markdown** agar mudah dibaca langsung di GitHub dan mengikuti praktik dokumentasi yang umum digunakan dalam proses **Quality Assurance (QA)**.
-
 ---
 
 ## 📂 Struktur Folder
